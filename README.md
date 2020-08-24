@@ -1,0 +1,1 @@
+some basic examples of hooks and react native with focus on state mgmt. issues: Need to update to new react navigation pkg, and cannot get web build, but works on ios device and simulator. Yarn install will get this up and running. Assets not pushed so linked images will be broken. Update with links or local files.
